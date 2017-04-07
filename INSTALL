@@ -1,0 +1,9 @@
+Building Octanox
+
+See doc/readme-qt.rst for instructions on building Octanox Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Octanox.
+
+See doc/build-*.txt for instructions on building Octanoxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Octanox.
